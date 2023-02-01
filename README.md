@@ -3,9 +3,9 @@ My name is Florencia, I am 29 years old and I am from Argentina.
 Currently inserting myself in the IT world as a Full Stack Web Developer. In this space you will find the projects in which I participate and in which I am currently working! I hope you enjoy it!🚀
 
 ### My Skill Set 
-<img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width = "40" height = "40"/>
-<img src = "https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width = "40" height = "40"/>
-<img src = "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width = "40" height = "40"/> 
+<img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width = "40" height = "40"/>&nbsp;
+<img src = "https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width = "40" height = "40"/>&nbsp;
+<img src = "https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width = "40" height = "40"/>&nbsp;
  
 <!--
 **fpongetti/fpongetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
